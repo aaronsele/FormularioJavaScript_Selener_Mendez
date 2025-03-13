@@ -1,0 +1,8 @@
+*{
+    background-color:darkgray;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+button :hover{
+    color: darkgreen;
+}
